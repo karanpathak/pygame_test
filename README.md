@@ -1,2 +1,2 @@
 # pygame_test
-This is Test game in Pygame (Python's package)
+This is a Test game in Pygame (Python's package)
